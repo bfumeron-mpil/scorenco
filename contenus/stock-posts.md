@@ -74,5 +74,7 @@ Les clubs ont été choisis parmi les références citées par Score'n'co. Leurs
 | POC Handball | instagram.com/poc_handball | page du club sur scorenco.com |
 | AS Panazol Basket | instagram.com/aspanazolbasket | panazol-basket.fr |
 
+CTA (dernière slide de chaque carrousel) : sur FB/IG, « Suis les matchs du club en live sur l'appli Score'n'co » avec scorenco.com/fans/application ; sur LinkedIn, « Et votre club ? Site, widgets, convocations : clé en main » avec scorenco.com/clubs.
+
 Les photos ont été recadrées pour retirer les textes et stickers des visuels d'origine.
 Les légendes LinkedIn et celles des vœux sont dans le canvas, sous chaque post.
