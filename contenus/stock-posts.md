@@ -1,12 +1,16 @@
 # Stock de posts : Notif · Chiffre clé · Bienvenue
 
-Visuels : canvas « Score'n'co – Stock de posts » (https://claude.ai/artifact/5QUiV9PbZKrRNL8r4Uw3r4), avec 3 pages : `notif`, `chiffre` et `bienvenue`.
+Visuels : canvas « Score'n'co – Stock de posts » (https://claude.ai/artifact/5QUiV9PbZKrRNL8r4Uw3r4).
+Il est rangé par réseau puis par gabarit, avec la légende sous chaque post :
+- **FB/IG** : G1 Notif (5), G3 Chiffre clé (5), G5 Bienvenue (5 carrousels), Vœux 2027 (carrousel + story) ;
+- **LinkedIn** : G1 Notif (2, angle dirigeant), G3 Chiffre clé (5), G5 Bienvenue (5, en document PDF), Vœux 2027 (carrousel en PDF).
 Ces posts sont hors calendrier. On les utilise pour combler un trou ou pour réagir à l'actu d'un club.
 Le style suit les gabarits RS en place : dégradé bleu, chiffres verts, étoiles, éclairs, cadre photo à bordure verte et Open Sans.
 
 À faire avant publication :
-- **Photos.** Ce sont des photos d'illustration Magnific sous licence. Les remplacer dès que possible par des photos du club, avec son accord.
-- **Logos.** Récupérer le logo de chaque club et le faire valider par le club. La pastille « LOGO DU CLUB » n'est qu'un emplacement.
+- **Bienvenue : photos et logos réels.** Ils viennent des comptes Instagram publics et des sites des clubs, avec un crédit sur chaque slide. Ce ne sont pas des images libres de droit : obtenir l'accord du club avant publication. Photos de mineurs (Caluire, Panazol) : faire confirmer que l'autorisation parentale est couverte.
+- **Stade Bordelais.** 3 photos viennent de Wikimedia Commons ; le crédit est obligatoire et figure sur la slide.
+- **Notif et Chiffre clé.** Photos d'illustration Magnific sous licence, sans club identifiable.
 - **Taguer le club.** Prévenir le club et le taguer en publiant les posts Bienvenue.
 
 ---
@@ -53,9 +57,22 @@ Les clubs ont été choisis parmi les références citées par Score'n'co. Leurs
 | # | Club | Sport | Slides 2-4 | Source |
 |---|---|---|---|---|
 | b1 | Stade Bordelais | Omnisports (photo rugby féminin) | 136 ans d'histoire · 6 000 adhérents · 25 sections sportives | https://www.stade-bordelais.com/ |
-| b2 | AL Caluire Basket | Basket (photo féminines) | 1928, naissance de la section · ≈ 400 adhérents · 25 équipes | https://alcaluirebasket.fr/ |
+| b2 | AL Caluire Basket | Basket (féminines et jeunes) | NM3 · NF3 (seniors garçons et filles) · ≈ 400 adhérents · 25 équipes | https://alcaluirebasket.fr/ ; niveaux NM3/NF3 vus sur les visuels de match de @alc_basket |
 | b3 | AJS Colleville Ouistreham | Football | 294 licenciés · 4 équipes seniors dont 1 féminine · création en 2020 | https://ajsco.fr/ |
 | b4 | POC Handball | Handball | N2 · 11 équipes des U11 aux seniors · 4 équipes seniors | page Clubhouse de scorenco.com |
 | b5 | AS Panazol Basket | Basket | NM3 en CTC · 11 équipes · école de basket dès les U7 | https://panazol-basket.fr/ |
 
 **Légende type (b1).** #Bienvenue au Stade Bordelais 💚 136 ans d'histoire, 6 000 adhérents et 25 sections sportives : un monument du sport amateur nous fait confiance ! Ravis de vous accompagner 🙌 @StadeBordelais
+
+## Sources des photos Bienvenue
+
+| Club | Photos | Logo |
+|---|---|---|
+| Stade Bordelais | Commons : [Lionnes 2022](https://commons.wikimedia.org/wiki/File:A-Lionnes_du_Stade_Bordelais_2022.jpg) (JohnNewton8, CC BY-SA 4.0), [US Dax – Stade bordelais 2019](https://commons.wikimedia.org/wiki/File:US_Dax-Stade_bordelais_2_2019-01-20.jpg) (Daxipedia, CC BY-SA 4.0), [finale 1943](https://commons.wikimedia.org/wiki/File:Stade_bordelais-US_Dax_1943-04-18.jpg) (domaine public) ; escalade : stade-bordelais.com | stade-bordelais.com |
+| AL Caluire Basket | instagram.com/alc_basket | alcaluirebasket.fr |
+| AJS Colleville Ouistreham | instagram.com/ajsco_football | ajsco.fr |
+| POC Handball | instagram.com/poc_handball | page du club sur scorenco.com |
+| AS Panazol Basket | instagram.com/aspanazolbasket | panazol-basket.fr |
+
+Les photos ont été recadrées pour retirer les textes et stickers des visuels d'origine.
+Les légendes LinkedIn et celles des vœux sont dans le canvas, sous chaque post.
